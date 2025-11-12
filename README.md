@@ -22,7 +22,7 @@ Kelas : PAW RA
 
 Setiap folder di bawah ini berisi proyek atau latihan terpisah yang dikembangkan berdasarkan materi Pyramid Framework. Analisis dan penjelasan disertakan di masing-masing folder dalam file **`README.md`**.
 
-| No | Modul | Deskripsi Singkat | Lokasi Folder |
+| No | Modul | Deskripsi | Folder |
 |----|--------|-------------------|----------------|
 | 01 | Single-File Web Applications | Membuat aplikasi Pyramid sederhana hanya dalam satu file. | [01 Single-File Web Applications](./01%20Single-File%20Web%20Applications) |
 | 02 | Python Packages for Pyramid Applications | Mengorganisir kode aplikasi menjadi paket Python. | [02 Python Packages](./02%20Python%20Packages) |
