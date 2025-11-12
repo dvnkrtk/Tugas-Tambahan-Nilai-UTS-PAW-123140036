@@ -5,8 +5,8 @@ Membuat aplikasi web sederhana menggunakan Pyramid dalam satu file Python tanpa 
 
 ## Analisa
 Menurut analisa saya, pada guide ini saya diajarkan tentang cara melakukan setup awal framework pyramid.
-Aplikasi ini menampilkan konsep dasar Pyramid yaitu penggunaan route dan view.
-Fungsi hello_world berperan sebagai view yang menangani request ke path '/'.
-Configurator digunakan untuk menyiapkan konfigurasi aplikasi seperti rute dan view.
-Semua disimpan dalam satu file, sehingga mudah untuk memahami arsitektur awal Pyramid.
-Ketika saya buka halaman http://localhost:6543/ muncul teks Hello, world!
+- Aplikasi ini menampilkan konsep dasar Pyramid yaitu penggunaan route dan view.
+- Fungsi hello_world berperan sebagai view yang menangani request ke path '/'.
+- Configurator digunakan untuk menyiapkan konfigurasi aplikasi seperti rute dan view.
+- Semua disimpan dalam satu file, sehingga mudah untuk memahami arsitektur awal Pyramid.
+- Ketika saya buka halaman http://localhost:6543/ muncul teks Hello, world!
