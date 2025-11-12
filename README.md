@@ -6,9 +6,6 @@ Seluruh proyek dikerjakan menggunakan **Framework Pyramid** dengan pendekatan **
 ---
 
 ## Identitas Mahasiswa
-
-| Keterangan | Informasi |
-|-------------|------------|
 | **Nama** | Devina Kartika |
 | **NIM** | 123140036 |
 | **Kelas** | RA |
