@@ -1,9 +1,0 @@
-setup.py
-myclass_project/__init__.py
-myclass_project/views.py
-myclass_project.egg-info/PKG-INFO
-myclass_project.egg-info/SOURCES.txt
-myclass_project.egg-info/dependency_links.txt
-myclass_project.egg-info/entry_points.txt
-myclass_project.egg-info/requires.txt
-myclass_project.egg-info/top_level.txt
