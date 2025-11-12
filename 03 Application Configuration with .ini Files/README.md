@@ -12,7 +12,7 @@ Biasanya ada dua jenis konfigurasi utama:
 Inti dari guide ini menurut saya untuk kita mengetahui kalau kita bisa melakukan konfigurasi menggunakan file `.ini`
 
 ## Dokumentasi Output
-![Output](https://github.com/dvnkrtk/Tugas-Tambahan-Nilai-UTS-PAW-123140036/blob/main/03%20Application%20Configuration/myproject/3.png)
+![Output](https://github.com/dvnkrtk/Tugas-Tambahan-Nilai-UTS-PAW-123140036/blob/main/03%20Application%20Configuration%20with%20.ini%20Files/ini/3.png)
 
 File `.ini` dibaca oleh perintah:
 ```bash
