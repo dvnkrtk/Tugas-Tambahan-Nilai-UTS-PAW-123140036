@@ -10,3 +10,6 @@ Menurut analisa saya, pada guide ini saya diajarkan tentang cara melakukan setup
 - Configurator digunakan untuk menyiapkan konfigurasi aplikasi seperti rute dan view.
 - Semua disimpan dalam satu file, sehingga mudah untuk memahami arsitektur awal Pyramid.
 - Ketika saya buka halaman http://localhost:6543/ muncul teks Hello, world!
+
+## Dokumentasi Output
+![Output](https://github.com/dvnkrtk/Tugas-Tambahan-Nilai-UTS-PAW-123140036/blob/main/01%20Single-File%20Web%20Applications/temp/1.png)
