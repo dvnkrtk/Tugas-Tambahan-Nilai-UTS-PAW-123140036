@@ -20,8 +20,7 @@ Kelas : PAW RA
 
 ## Daftar Modul & Analisis
 
-Setiap folder di bawah ini berisi proyek atau latihan terpisah yang dikembangkan berdasarkan materi Pyramid Framework.  
-Analisis dan penjelasan disertakan di masing-masing folder dalam file **`README.md`**.
+Setiap folder di bawah ini berisi proyek atau latihan terpisah yang dikembangkan berdasarkan materi Pyramid Framework. Analisis dan penjelasan disertakan di masing-masing folder dalam file **`README.md`**.
 
 | No | Modul | Deskripsi Singkat | Lokasi Folder |
 |----|--------|-------------------|----------------|
