@@ -6,10 +6,9 @@ Seluruh proyek dikerjakan menggunakan **Framework Pyramid** dengan pendekatan **
 ---
 
 ## Identitas Mahasiswa
-| **Nama** | Devina Kartika |
-| **NIM** | 123140036 |
-| **Kelas** | RA |
-| **Mata Kuliah** | Pemrograman Aplikasi Web |
+Nama  : Devina Kartika  
+NIM   : 123140036  
+Kelas : PAW RA 
 
 ---
 
