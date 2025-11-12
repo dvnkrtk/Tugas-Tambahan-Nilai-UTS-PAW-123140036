@@ -1,0 +1,2 @@
+[paste.app_factory]
+main = myclass_project:main
